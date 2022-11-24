@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Other Discord Project**
 
-- 📝 I am currently **Study**
+- 📝 I am currently **Student**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
