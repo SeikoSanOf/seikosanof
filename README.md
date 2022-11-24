@@ -5,6 +5,8 @@
 
 - 📝 I am currently **Student**
 
+- 👨‍💻 All of my projects are available at [https://seikosanoff.github.io/portfolio/main.html](https://seikosanoff.github.io/portfolio/main.html)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
