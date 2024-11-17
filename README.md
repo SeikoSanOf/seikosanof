@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-📧 - Email: [Go Email](mailto:seikosan.contact@gmail.com)
+📧 Email: [Envoyer un Email](mailto:seikosan.contact@gmail.com?subject=Question%20de%20développement&body=Bonjour%20SeikoSan,)
 
 <h3 align="left">About Me:</h3>
 <p>I'm passionate about creating modern web applications and learning new technologies. Currently focused on full-stack development with Node.js, Lua. I enjoy solving problems and building tools that make a difference.</p>
