@@ -10,7 +10,7 @@
 📧 Email: [Envoyer un Email](mailto:seikosan.contact@gmail.com?subject=Question%20de%20développement&body=Bonjour%20SeikoSan,)
 
 <h3 align="left">About Me:</h3>
-<p>I'm passionate about creating modern web applications and learning new technologies. Currently focused on full-stack development with Node.js, Lua. I enjoy solving problems and building tools that make a difference.</p>
+<p>I'm passionate about creating program and learning new technologies. Currently focused on full-stack development with Node.js, Lua. I enjoy solving problems and building tools that make a difference.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
