@@ -16,4 +16,4 @@ kosanoff<h1 align="center">Hi 👋, I'm SeikoSan</h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seikosanoff&show_icons=true&theme=dark&locale=en&layout=compact" alt="seikosanoff" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seikosanoff&show_icons=true&theme=dark&locale=en" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seikosanoff&show_icons=true&theme=radical&locale=en" /></p>
