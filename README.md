@@ -2,13 +2,12 @@
 <h3 align="center">A developer from France passionate about development</h3>
 
 - 📝 I am currently a **Student** in Computer Science, exploring the word of development.
-- 🔭 I’m currently working on **a Discord bot project** using Node.js and Express to automate community management.
+- 🔭 I’m currently working on **a Discord bot project** using Node.js to automate community management.
 - 👨‍💻 You can view all of my projects and portfolio at [My Portfolio](https://seikosanoff.github.io/portfolio/index.html)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  📧 Email: `seikosan.contact@gmail.com`
-</p>
+
+📧 - Email: [Email](seikosan.contact@gmail.com)
 
 <h3 align="left">About Me:</h3>
 <p>I'm passionate about creating modern web applications and learning new technologies. Currently focused on full-stack development with Node.js, Lua. I enjoy solving problems and building tools that make a difference.</p>
