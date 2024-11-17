@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  📧 Email: [tonemail@example.com](mailto:seikosan.contact@gmail.com)
+  📧 Email: seikosan.contact@gmail.com
 </p>
 
 <h3 align="left">About Me:</h3>
