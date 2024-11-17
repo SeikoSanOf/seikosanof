@@ -1,9 +1,9 @@
 kosanoff<h1 align="center">Hi 👋, I'm SeikoSan</h1>
 <h3 align="center">A developer from France</h3>
 
-- 🔭 I’m currently working on **Other Discord Project**
-
 - 📝 I am currently **Student**
+
+- 🔭 I’m currently working on **Other Discord Project**
 
 - 👨‍💻 All of my projects are available at [https://seikosanoff.github.io/portfolio/index.html](https://seikosanoff.github.io/portfolio/index.html)
 
