@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SeikoSan</h1>
 <h3 align="center">A developer from France passionate about development</h3>
 
-- 📝 I am currently a **Student** in Computer Science, exploring full-stack web development.
+- 📝 I am currently a **Student** in Computer Science, exploring the word of development.
 - 🔭 I’m currently working on **a Discord bot project** using Node.js and Express to automate community management.
 - 👨‍💻 You can view all of my projects and portfolio at [My Portfolio](https://seikosanoff.github.io/portfolio/index.html)
 
