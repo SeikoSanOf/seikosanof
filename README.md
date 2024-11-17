@@ -7,15 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  📧 Email: [tonemail@example.com](mailto:tonemail@example.com) | 
-  🔗 LinkedIn: [ton profil LinkedIn](https://www.linkedin.com/in/tonprofil) | 
-  🐦 Twitter: [ton Twitter](https://twitter.com/tonprofil)
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <!-- Ajoute d'autres technologies ici -->
+  📧 Email: [tonemail@example.com](mailto:seikosan.contact@gmail.com)
 </p>
 
 <h3 align="left">About Me:</h3>
