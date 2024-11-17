@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SeikoSan</h1>
-<h3 align="center">A developer from France passionate about web development</h3>
+<h3 align="center">A developer from France passionate about development</h3>
 
 - 📝 I am currently a **Student** in Computer Science, exploring full-stack web development.
 - 🔭 I’m currently working on **a Discord bot project** using Node.js and Express to automate community management.
