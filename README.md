@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SeikoSan</h1>
+⁸<h1 align="center">Hi 👋, I'm SeikoSan</h1>
 <h3 align="center">A developer from France passionate about development</h3>
 
 - 📝 I am currently a **Student** in Computer Science, exploring the word of development.
@@ -28,7 +28,7 @@
 
 
 
-p>&nbsp;<img align="center" src="
+<p>&nbsp;<img align="center" src="
 https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" /></p>
 
 
