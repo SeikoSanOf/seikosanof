@@ -27,4 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seikosanoff&show_icons=true&theme=radical&locale=en" /></p>
 
 
+https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only
+
+
 
