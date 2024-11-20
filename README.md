@@ -1,4 +1,4 @@
-⁸<h1 align="center">Hi 👋, I'm SeikoSan</h1>
+⁸<h1 align="center">Hi 👋, I'm Seiko</h1>
 <h3 align="center">A developer from France passionate about development</h3>
 
 - 📝 I am currently a **Student** in Computer Science, exploring the word of development.
