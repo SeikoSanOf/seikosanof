@@ -1,5 +1,5 @@
 # 💫 About Seiko:
-A developper from France passionate about development<br><br>    📝 I am currently a Student in Computer Science, exploring the word of development.<br>    🔭 I’m currently working on a Tools Site of Cyber sécurity, project using React to automate action of sécurity.<br>    👨‍💻 You can view all of my projects and portfolio at My Portfolio<br><br>About Me:<br>I'm passionate about creating program and learning new technologies. I enjoy solving problems and building tools that make a difference.
+A developper from France passionate about development<br><br>    📝 I am currently a Student in Computer Science, exploring the word of development.<br><br>    🔭 I’m currently working on a Tools Site of Cyber sécurity, project using React to automate action of sécurity.<br><br>    👨‍💻 You can view all of my projects and portfolio at My Portfolio.<br><br>More About Me:<br><br>I'm passionate about creating program and learning new technologies. I enjoy solving problems and building tools that make a difference.
 
 
 ## 🌐 Socials:
