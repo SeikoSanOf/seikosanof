@@ -1,5 +1,5 @@
 # 💫 About Seiko:
-A developer from France passionate about development<br><br>    📝 I am currently a Student in Computer Science, exploring the word of development.<br>    🔭 I’m currently working on a Discord bot project using Node.js to automate community management.<br>    👨‍💻 You can view all of my projects and portfolio at My Portfolio<br><br>About Me:<br>I'm passionate about creating program and learning new technologies. Currently focused on full-stack development with Node.js, Lua. I enjoy solving problems and building tools that make a difference.
+A developper from France passionate about development<br><br>    📝 I am currently a Student in Computer Science, exploring the word of development.<br>    🔭 I’m currently working on a Tools Site of Cyber sécurity, project using React to automate action of sécurity.<br>    👨‍💻 You can view all of my projects and portfolio at My Portfolio<br><br>About Me:<br>I'm passionate about creating program and learning new technologies. I enjoy solving problems and building tools that make a difference.
 
 
 ## 🌐 Socials:
